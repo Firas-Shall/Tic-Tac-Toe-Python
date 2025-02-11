@@ -21,7 +21,7 @@ The first player to get three in a row (horizontally, vertically, or diagonally)
 
 If all spaces are filled and no player wins, it's a draw.
 
-###🚀 Future Improvements
+### 🚀 Future Improvements
 
 -Add AI for single-player mode
 
