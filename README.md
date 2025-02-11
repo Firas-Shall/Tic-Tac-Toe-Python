@@ -7,11 +7,11 @@ A simple Tic-Tac-Toe game built using Python. Play against another player in a c
 ✅ Simple and easy-to-understand logic
 
 📦 Installation
-1 - Clone the repository: git clone https://github.com/Firas-Shall/Tic-Tac-Toe-Python.git
+1 - Clone the repository: `git clone https://github.com/Firas-Shall/Tic-Tac-Toe-Python.git`
 
-2 - Navigate to the project folder: cd Tic-Tac-Toe-Python
+2 - Navigate to the project folder: `cd Tic-Tac-Toe-Python`
 
-3 - Run the game: python tic_tac_toe.py
+3 - Run the game: `python tic_tac_toe.py`
 
 🎯 How to Play
 
